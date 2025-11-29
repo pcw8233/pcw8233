@@ -1,12 +1,22 @@
 <div align="center">
 
   ![header](https://capsule-render.vercel.app/api?type=cylinder&color=53868b&height=150&section=header&text=pcw8233&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
-#### 👋 Welcome my Github Profile~
+</div>
 
+<div>
+  👀About Me
+<br/>
+👋 Welcome my Github Profile~
+<br/>
+1. A passionate backend developer
+<br/>
+2. I’m aiming to become a full-stack developer.
+<br/>
+3. I’m pursuing my dream.
 <br/>
 <br/>
-
-### 📋Once I've Used
+<br/>
+📋Once I've Used
 
 <br/>
 🧱 Tech Stack
@@ -15,6 +25,8 @@ Language
 <br/>
   <!--Python-->
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+  <!--Java-->
+  <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white">
   <!--JavaScript-->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
   <!--HTML5-->
@@ -28,21 +40,20 @@ Language
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
   <!--Django-->
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
-
+  <!--FastAPI-->
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=Django&logoColor=white"/>
   
   ### ETC
   <!--Amazon AWS-->
-  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AWS&logoColor=white"/>
   <!--MySQL-->
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
   <br/>
   <br/>
 
 ## 🤔 Github Stats
-  [!['s GitHub stats](https://github-readme-stats.vercel.app/api?username=)](https://github.com/anuraghazra/github-readme-stats)
+  [!['s GitHub stats](https://github-readme-stats.vercel.app/api?username=pcw8233layout-compact)](https://github.com/anuraghazra/github-readme-stats)
   <br/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=)](https://github.com/anuraghazra/github-readme-stats)
-  
 </div>
   
 </div>
