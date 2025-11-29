@@ -1,7 +1,8 @@
-<div align="center">
-
-  ![header](https://capsule-render.vercel.app/api?type=cylinder&color=53868b&height=150&section=header&text=pcw8233&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
+<div>
+  
+  ![header](https://capsule-render.vercel.app/api?type=cylinder&color=53868b&height=150&section=header&text=pcw8233's Github&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
 </div>
+
 
 <div>
   👀About Me
@@ -51,12 +52,7 @@ Language
   <br/>
   <br/>
 
-## 🤔 Github Stats
-  [!['s GitHub stats](https://github-readme-stats.vercel.app/api?username=pcw8233layout-compact)](https://github.com/anuraghazra/github-readme-stats)
-  <br/>
-</div>
-  
-</div>
+
 <!--
 **pcw8233/pcw8233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
